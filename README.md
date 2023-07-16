@@ -5,7 +5,7 @@
 ##
 
 ### 🍃 *Sobre mim:*
-*Estudante de Engenharia de Software em busca de uma oportunidade de estágio na área de TI. Tenho grande interesse em front-end. Sempre buscando me desenvolver em novas habilidades e tecnologias.Apaixonada por tecnologia, com desejo de atuar na área da tecnologia.🤍*
+*Estudante de Engenharia de Software em busca de uma oportunidade de estágio na área de TI. Tenho grande interesse em front-end. Sempre buscando me desenvolver em novas habilidades e tecnologias.Apaixonada por tecnologia, com desejo de atuar na área.🤍*
 
 ##
 
